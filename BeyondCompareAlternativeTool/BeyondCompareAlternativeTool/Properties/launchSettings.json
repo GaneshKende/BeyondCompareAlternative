@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BeyondCompareAlternativeTool": {
+      "commandName": "Project",
+      "commandLineArgs": "Files/GamePresets_101421_40300.sql Files/GamePresets_101421_50300.sql\r\n"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
